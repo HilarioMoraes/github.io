@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Meu Portfólio</title>
+    Meu Portfólio
 </head>
 <body>
     <h1>Olá! Eu sou Hilario Moraes</h1>
